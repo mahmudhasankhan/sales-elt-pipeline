@@ -14,6 +14,7 @@ dags/__pycache__
 include/__pycache__
 include/dataset/Sales Data.xlsx
 include/gcp/service_account.json
+elt_env/
 
 
 ## dbt subfolders
